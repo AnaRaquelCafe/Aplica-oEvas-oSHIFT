@@ -1,2 +1,2 @@
-# Aplica-oEvas-oSHIFT
+# ModeloPreditivoSHIFT
 Aplicação da turma do SHIFT.
